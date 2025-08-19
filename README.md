@@ -3,12 +3,6 @@
 
 A simple and beautiful web application that displays the current weather for your location or a specified city.
 
-## Screenshots
-
-*(Here you can add a screenshot of the application in action. You can take a screenshot and drag and drop it here.)*
-
-![Screenshot of the Weather App](placeholder.png)
-
 ## Features
 
 *   **Automatic Geolocation:** Automatically fetches and displays the weather for your current location on page load.
